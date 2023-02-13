@@ -20,3 +20,5 @@ SPOILT-X|x0x0x1|0|4|1|7|u|0|_|a|4|1|7
 SPOILT-X|x0x0x1|0|8|5|6|u|0|_|a|8|5|6
 SPOILT-X|x0x0x1|0|1|7|0|u|0|_|a|1|7|0
 SPOILT-X|x0x0x1|0|3|1|5|u|0|_|a|3|1|5
+SPOILT-X|x0x0x1|0|2|0|1|u|0|_|a|2|0|1
+SPOILT-X|x0x0x1|0|4|9|9|u|0|_|a|4|9|9
