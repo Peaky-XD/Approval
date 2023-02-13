@@ -4,7 +4,6 @@ SPOILT-X|x0x0x1|0|5|0|8|u|0|_|a|5|0|8
 SPOILT-X|x0x0x1|0|2|6|5|u|0|_|a|2|6|5
 SPOILT-X|x0x0x1|0|1|5|3|u|0|_|a|1|5|3
 SPOILT-X|x0x0x1|0|2|0|0|u|0|_|a|2|0|0
-SPOILT-X|x0x0x1|0|4|4|7|u|0|_|a|4|4|7
 SPOILT-X|x0x0x1|0|3|7|9|u|0|_|a|3|7|9
 SPOILT-X|x0x0x1|0|4|4|5|u|0|_|a|4|4|5
 SPOILT-X|x0x0x1|0|4|4|5|u|0|_|a|4|4|5
